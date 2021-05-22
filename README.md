@@ -63,3 +63,12 @@ key = 'f4|<eN3w$'
 
 print(xor(msg,key))
 ```
+
+# small calculations...
+
+```
+off_49CA050[i % 4] - 33 : 69, 19, 91, 27
+
+the flag is in reverse...
+4jNm.7jCV"q'I|pFJz^DT|n-c
+```
