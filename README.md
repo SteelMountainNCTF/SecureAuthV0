@@ -32,7 +32,7 @@ with open('msg.enc', 'r') as f:
     msg = ''.join(f.readlines())
     print(len(msg))
     
-# We know this part that exists in the flag
+# We know that this part exists in the flag
 part_of_msg = 'NORZH{'
 
 for i in range(len(msg)):
